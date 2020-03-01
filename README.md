@@ -251,6 +251,9 @@ It goes without saying, that such operations take time, and this implementation 
 
 if any issue [check](https://github.com/diadal/vue-nacl-crypter/issues)
 
+[travis-image]: https://travis-ci.org/diadal/vue-nacl-crypter.svg?branch=master
+[travis-url]: https://travis-ci.org/diadal/vue-nacl-crypter
+
 
 ## License
 
