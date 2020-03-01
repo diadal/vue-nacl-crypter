@@ -35,7 +35,7 @@ Vue.use(Dcrypt)
 
 
 ```
-`Vue.use(VueNaclCrypter)` make `$Dcrypt` available in your Vue component codes you can call a
+`Vue.use(Dcrypt)` make `$Dcrypt` available in your Vue component codes you can call a
 
 [Secret-key authenticated](http://nacl.cr.yp.to/secretbox.html) encryption is provided by secret_box, which implements XSalsa20+Poly1305.
 
