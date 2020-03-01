@@ -1,0 +1,12 @@
+{
+  "name": "vue-nacl-crypter",
+  "version": "1.0.1",
+  "main": "dist/vue-nacl-crypter.js",
+  "homepage": "https://github.com/diadal/vue-nacl-crypter",
+  "ignore": [
+
+  ],
+  "dependencies": {
+    "vue": "^2.0.0"
+  }
+}

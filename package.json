@@ -1,0 +1,41 @@
+{
+  "name": "vue-nacl-crypter",
+  "version": "1.0.6",
+  "description": "Vue JavaScript (ECMAScript) version of Ecma-Nacl & NaCl cryptographic library.",
+  "main": "dist/vue-nacl-crypter.js",
+  "unpkg": "dist/vue-nacl-crypter.js",
+  "keywords": [
+    "vue",
+    "vuejs",
+    "quasar",
+    "encryption",
+    "Vue encrypt",
+    "nacl",
+    "high-level",
+    "crypto",
+    "scrypt"
+  ],
+  "author": {
+    "name": "diadal",
+    "email": "info@diadal.com.ng",
+    "url": "https://diadal.com.ng"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diadal/vue-nacl-crypter.git"
+  },
+  "license": "MIT",
+  "tags": [
+    "quasar",
+    "encryption",
+    "Vue encrypt",
+    "nacl",
+    "high-level",
+    "crypto",
+    "scrypt"
+  ],
+  "dependencies": {
+    "ecma-nacl": "^2.4.2",
+    "vue": "^2.5.2"
+  }
+}
