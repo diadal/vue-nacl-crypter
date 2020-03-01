@@ -1,3 +1,7 @@
+[![Build Status][travis-image]][travis-url]
+[![Known Vulnerabilities](https://snyk.io/test/github/diadal/vue-nacl-crypter/badge.svg)](https://snyk.io/test/github/diadal/vue-nacl-crypter)
+
+
 # vue-nacl-crypter: Vue JavaScript (ECMAScript) version of Ecma-Nacl & NaCl cryptographic library.
 
 vue-nacl-crypter  is a re-write of ecma-nacl & NaCl in TypeScript, which is ECMAScript with compile-time types.
