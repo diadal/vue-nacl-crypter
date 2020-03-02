@@ -1,5 +1,7 @@
-var nacl = require('ecma-nacl')
 import Vue from 'vue'
+import * as nacl from 'ecma-nacl'
+
+
 
 const VueNaclCrypter = {
   encodeUTF8 (str) {
