@@ -9,5 +9,5 @@ node_js:
   - "8"
   - "6"
   - "5"
-script: node src/index.js
+script: node index.js
 sudo: false
