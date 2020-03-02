@@ -2,12 +2,5 @@ language: node_js
 node_js:
   - "node"
   - "13"
-  - "12"
-  - "11"
-  - "10"
-  - "9"
-  - "8"
-  - "6"
-  - "5"
-script: node index.js
+script: node src/index.js
 sudo: false
