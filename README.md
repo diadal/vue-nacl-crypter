@@ -30,8 +30,8 @@ This library is registered on
 Add module into code as
 
 ```javascript
-import Vue from 'vue
-import * as cr from './vue-nacl-crypter' 
+import Vue from 'vue'
+import * as cr from 'vue-nacl-crypter' 
 
 const Dcrypt = cr.VueNaclCrypter
 

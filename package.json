@@ -1,6 +1,6 @@
 {
   "name": "vue-nacl-crypter",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "Vue JavaScript (ECMAScript) version of Ecma-Nacl & NaCl cryptographic library.",
   "main": "dist/vue-nacl-crypter.js",
   "unpkg": "dist/vue-nacl-crypter.js",
