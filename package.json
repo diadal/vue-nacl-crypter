@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "vue-nacl-crypter",
   "version": "1.0.8",
   "description": "Vue JavaScript (ECMAScript) version of Ecma-Nacl & NaCl cryptographic library.",
